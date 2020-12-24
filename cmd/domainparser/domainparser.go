@@ -81,6 +81,8 @@ func main() {
 					currentTLD = nextTLD
 				}
 			}
+		} else if line == "// ===BEGIN PRIVATE DOMAINS===" {
+			break
 		}
 	}
 
