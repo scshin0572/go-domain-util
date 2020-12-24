@@ -1,4 +1,4 @@
-module github.com/bobesa/go-domain-util
+module github.com/scshin0572/go-domain-util
 
 go 1.13
 
